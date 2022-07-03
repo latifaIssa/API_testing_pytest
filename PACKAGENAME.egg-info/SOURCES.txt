@@ -1,0 +1,14 @@
+pyproject.toml
+setup.cfg
+PACKAGENAME.egg-info/PKG-INFO
+PACKAGENAME.egg-info/SOURCES.txt
+PACKAGENAME.egg-info/dependency_links.txt
+PACKAGENAME.egg-info/top_level.txt
+mypkg/__init__.py
+mypkg/class.py
+mypkg/sample.py
+mypkg/sysexit_raises.py
+tests/__init__.py
+tests/test_class.py
+tests/test_sample.py
+tests/test_sysexit_raises.py
